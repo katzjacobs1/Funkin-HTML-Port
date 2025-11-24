@@ -1,0 +1,122 @@
+{
+    "version": "1.0.0",
+    "name": "QT (QT: Rewired - HQ Version).",
+    "assetPath": "characters/QT_assets/qt_rockerfeller_street",
+    "singTime": 8.0,
+    "flipX": false,
+    "renderType": "multisparrow",
+    "startingAnimation": "idle",
+    "cameraOffsets": [
+        0,
+        0
+    ],
+    "healthIcon": {
+        "id": "QT-RS"
+    },
+    "animations": [
+        {
+            "offsets": [
+                88,
+                -17
+            ],
+            "name": "intro",
+            "prefix": "qt hi"
+        },
+        {
+            "offsets": [
+                93,
+                -28
+            ],
+            "name": "idle",
+            "prefix": "qt idle"
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "qt left0",
+            "offsets": [
+                99,
+                -27
+            ]
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "qt down",
+            "offsets": [
+                143,
+                -122
+            ]
+        },
+        {
+            "name": "singUP",
+            "prefix": "qt up",
+            "offsets": [
+                65,
+                17
+            ]
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "qt right",
+            "offsets": [
+                84,
+                -23
+            ]
+        },
+        {
+            "name": "cheer",
+            "prefix": "qt hey",
+            "offsets": [
+                153,
+                -110
+            ]
+        },
+        {
+            "name": "preDance",
+            "prefix": "qt pre dance",
+            "offsets": [
+                94,
+                -22
+            ]
+        },
+        {
+            "name": "danceRight-alt",
+            "prefix": "qt dance",
+            "frameIndices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "offsets": [
+                70,
+                -22
+            ]
+        },
+        {
+            "name": "danceLeft-alt",
+            "prefix": "qt dance",
+            "frameIndices": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "offsets": [
+                70,
+                -22
+            ]
+        }
+    ]
+}

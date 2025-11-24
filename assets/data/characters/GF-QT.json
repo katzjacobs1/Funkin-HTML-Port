@@ -1,0 +1,168 @@
+{
+  "version": "1.0.0",
+  "name": "Girlfriend (QT Rewired).",
+  "assetPath": "characters/GF/gf-qt_assets",
+  "renderType": "multisparrow",
+  "startingAnimation": "danceRight",
+  "singTime": 4.0,
+  "animations": [
+    {
+      "name": "danceLeft",
+      "prefix": "gf idle",
+      "frameIndices": [
+        30,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "offsets": [
+        0,
+        -9
+      ]
+    },
+    {
+      "name": "danceRight",
+      "prefix": "gf idle",
+      "frameIndices": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "offsets": [
+        0,
+        -9
+      ]
+    },
+    {
+      "assetPath": "characters/GF/gf_rockefeller_dance",
+      "name": "danceLeft-alt",
+      "prefix": "dance left",
+      "offsets": [
+        -14,
+        -25
+      ]
+    },
+    {
+      "name": "dodge",
+      "prefix": "gf dodge",
+      "frameIndices": [],
+      "offsets": [
+        -14,
+        -13
+      ]
+    },
+    {
+      "name": "intro",
+      "prefix": "gf shocked",
+      "frameIndices": [],
+      "looped": true,
+      "offsets": [
+        -34,
+        -15
+      ]
+    },
+    {
+      "name": "danceRight-alt",
+      "prefix": "dance right",
+      "offsets": [
+        37,
+        -18
+      ]
+    },
+    {
+      "assetPath": "characters/GF/gf_rockefeller_dance",
+      "name": "preDance",
+      "prefix": "gf pre dance0",
+      "offsets": [
+        -2,
+        -14
+      ]
+    },
+    {
+      "name": "sad",
+      "prefix": "gf sad",
+      "frameIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "offsets": [
+        -20,
+        -22
+      ]
+    },
+    {
+      "name": "cheer",
+      "prefix": "gf cheer",
+      "offsets": [
+        -17,
+        3
+      ]
+    },
+    {
+      "name": "combo50",
+      "prefix": "gf cheer",
+      "offsets": [
+        -17,
+        3
+      ]
+    },
+    {
+      "name": "drop70",
+      "prefix": "gf sad",
+      "frameIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "offsets": [
+        -20,
+        -22
+      ]
+    }
+  ]
+}
